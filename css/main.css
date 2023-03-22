@@ -36,7 +36,7 @@ nav li{
 
 nav li:hover{
     color: white;
-    background-color: grey;
+    background-color: red;
 }
 
 .cta{
@@ -124,27 +124,29 @@ h4{
 }
 
 .circles-container {
-    width: 100%;
-    margin-top: 50px;
+    margin: 0 auto;
+    margin-left: 20px;
+    margin-right: 20px;
+
   }
   
-  .circles-container img{
+.circles-container img{
     width: 16%;
     height: 200px;
     border-radius: 50%;
     padding-left: 50px;
     padding-right: 50px;
+    margin: 0 auto;
     justify-content: center;
     align-items: center;
-    margin: 10px;
-  }
+}
   
-  .subtext {
+.subtext {
     font-size: 16px;
     color: #333;
     text-align: center;
     margin-top: 5px;
-  }
+}
   
 
 .small-btn{
@@ -230,4 +232,16 @@ footer{
     margin-top: 100px !important;
     color: white;
     background-color: darkgrey;
+}
+
+.con-flu{
+    margin: 0 auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.social{
+    width: 20px;
+    height: 20px;
+    float: right;
 }
