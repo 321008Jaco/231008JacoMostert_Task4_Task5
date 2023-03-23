@@ -224,6 +224,85 @@ h4{
     margin-bottom: 30%;
 }
 
+.image-small-1{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-image: url("../assets/assets/old_eleven.png");
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.image-small-2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-image: url("../assets/assets/old_mike.png");
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.image-small-3{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-image: url("../assets/assets/old_dustin.png");
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.image-small-4{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-image: url("../assets/assets/zombie.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+
+.section-head{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.section-sub-head{
+    text-align: center;
+}
+
+.small-btn:hover{
+    border: 2px solid #2b2b2b;
+    background-color: white;
+    color: #2b2b2b;
+    cursor: pointer;
+    padding-top: 3px;
+ }
+ 
+.small-btn{
+    width: 150px;
+    height: 35px;
+    background-color: #2b2b2b;
+    color: white;
+    border-radius: 5px;
+    padding-top: 5px;
+    margin:  0 auto;
+}
+
+.thumbnail{
+    text-align: center;
+    padding-top: 25px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
 footer{
     height: 150px;
     width: 100%;
